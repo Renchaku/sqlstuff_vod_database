@@ -2,6 +2,6 @@
 
 # Sharing it for potential feedback
 
-# Well also in case I have ani queries
+# Well also in case I have any queries
 
 \ o / Enjoy !
