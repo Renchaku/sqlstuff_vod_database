@@ -45,4 +45,3 @@ DELETE FROM vod_actor WHERE dbFirstname = 'Nicolas';
 
 DELETE FROM vod_classification WHERE dbClassId = '12';
 -- Deletes data of ID 12
-
