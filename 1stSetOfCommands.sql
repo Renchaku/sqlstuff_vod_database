@@ -56,6 +56,3 @@ SELECT dbFirstname AS "Actor first name", dbLastname AS "Actor last name" FROM v
 SELECT dbTitle FROM vod_film
 WHERE dbClass = 'U' OR dbGenre = 'comedy';
 -- Selects funny or U rated
-
-
-
